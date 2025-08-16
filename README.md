@@ -182,30 +182,5 @@ To add Google Analytics:
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) file for details.
 
-## 👤 Author
-
-**Yashwanth S**
-- GitHub: [@yashwanths](https://github.com/yashwanths)
-- LinkedIn: [yashwanths](https://linkedin.com/in/yashwanths)
-- Email: yashwanth@example.com
-
-## 🙏 Acknowledgments
-
-- [React](https://reactjs.org/) - UI library
-- [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS framework
-- [Lucide React](https://lucide.dev/) - Beautiful icons
-- [Vite](https://vitejs.dev/) - Build tool
-- [GitHub Pages](https://pages.github.com/) - Hosting platform
-
-## 📝 Changelog
-
-### v1.0.0 (2024-12-19)
-- Initial release
-- Complete portfolio website with all sections
-- Responsive design with dark/light mode
-- SEO optimization and accessibility features
-- GitHub Pages deployment ready
-
----
 
 **⭐ If you found this portfolio template helpful, please give it a star on GitHub!**
